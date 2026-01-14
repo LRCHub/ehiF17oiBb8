@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "相思相愛リフレクション - Live2022『藍の華』 -",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-01-14T04:47:49.571844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "相思相愛リフレクション",
+      "artist": "Gohgo",
+      "has_synced": true,
+      "path": "select/01_相思相愛リフレクション_Gohgo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "相思相愛リフレクション - Live2022『藍の華』 -",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_相思相愛リフレクション_-_Live2022『藍の華』_-_HIMEHINA.txt"
+    }
+  ]
+}
